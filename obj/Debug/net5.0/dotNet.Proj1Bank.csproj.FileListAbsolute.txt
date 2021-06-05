@@ -1,0 +1,16 @@
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\bin\Debug\net5.0\dotNet.Proj1Bank.exe
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\bin\Debug\net5.0\dotNet.Proj1Bank.deps.json
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\bin\Debug\net5.0\dotNet.Proj1Bank.runtimeconfig.json
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\bin\Debug\net5.0\dotNet.Proj1Bank.runtimeconfig.dev.json
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\bin\Debug\net5.0\dotNet.Proj1Bank.dll
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\bin\Debug\net5.0\ref\dotNet.Proj1Bank.dll
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\bin\Debug\net5.0\dotNet.Proj1Bank.pdb
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\obj\Debug\net5.0\dotNet.Proj1Bank.csproj.AssemblyReference.cache
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\obj\Debug\net5.0\dotNet.Proj1Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\obj\Debug\net5.0\dotNet.Proj1Bank.AssemblyInfoInputs.cache
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\obj\Debug\net5.0\dotNet.Proj1Bank.AssemblyInfo.cs
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\obj\Debug\net5.0\dotNet.Proj1Bank.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\obj\Debug\net5.0\dotNet.Proj1Bank.dll
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\obj\Debug\net5.0\ref\dotNet.Proj1Bank.dll
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\obj\Debug\net5.0\dotNet.Proj1Bank.pdb
+C:\Users\Osvaldo\Documents\DIO\dotNET\dotNet.Proj1Bank\obj\Debug\net5.0\dotNet.Proj1Bank.genruntimeconfig.cache
